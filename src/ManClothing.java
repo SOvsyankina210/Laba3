@@ -1,0 +1,3 @@
+interface ManClothing {
+    void dressMan();
+}
